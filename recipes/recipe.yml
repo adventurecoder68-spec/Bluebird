@@ -26,5 +26,5 @@ modules:
           - org.onlyoffice.desktopeditors
       - scope: user
         install: []
-
-  - type: signing
+- type: signing
+  no-sign: true
