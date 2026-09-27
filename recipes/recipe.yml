@@ -25,6 +25,6 @@ modules:
           - com.valvesoftware.Steam
           - org.onlyoffice.desktopeditors
       - scope: user
-        install: []
-- type: signing
-  no-sign: true
+        install: []  
+      - type: signing
+        no-sign: true
